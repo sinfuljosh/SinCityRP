@@ -1,0 +1,249 @@
+[submodule "txData\\resources\\[standalone]\\bob74_ipl"]
+	path = txData\\resources\\[standalone]\\bob74_ipl
+	url = https://github.com/Bob74/bob74_ipl
+[submodule "txData\\resources\\[standalone]\\safecracker"]
+	path = txData\\resources\\[standalone]\\safecracker
+	url = https://github.com/qbcore-framework/safecracker
+[submodule "txData\\resources\\[standalone]\\progressbar"]
+	path = txData\\resources\\[standalone]\\progressbar
+	url = https://github.com/qbcore-framework/progressbar
+[submodule "txData\\resources\\[standalone]\\interact-sound"]
+	path = txData\\resources\\[standalone]\\interact-sound
+	url = https://github.com/qbcore-framework/interact-sound
+[submodule "txData\\resources\\[standalone]\\mhacking"]
+	path = txData\\resources\\[standalone]\\mhacking
+	url = https://github.com/qbcore-framework/mhacking
+[submodule "txData\\resources\\[standalone]\\connectqueue"]
+	path = txData\\resources\\[standalone]\\connectqueue
+	url = https://github.com/qbcore-framework/connectqueue
+[submodule "txData\\resources\\[standalone]\\dpemotes"]
+	path = txData\\resources\\[standalone]\\dpemotes
+	url = https://github.com/qbcore-framework/dpemotes
+[submodule "txData\\resources\\[standalone]\\LegacyFuel"]
+	path = txData\\resources\\[standalone]\\LegacyFuel
+	url = https://github.com/qbcore-framework/LegacyFuel
+[submodule "txData\\resources\\[voice]\\qb-radio"]
+	path = txData\\resources\\[voice]\\qb-radio
+	url = https://github.com/qbcore-framework/qb-radio
+[submodule "txData\\resources\\[qb]\\qb-core"]
+	path = txData\\resources\\[qb]\\qb-core
+	url = https://github.com/qbcore-framework/qb-core
+[submodule "txData\\resources\\[qb]\\qb-gangmenu"]
+	path = txData\\resources\\[qb]\\qb-gangmenu
+	url = https://github.com/qbcore-framework/qb-gangmenu
+[submodule "txData\\resources\\[qb]\\qb-scoreboard"]
+	path = txData\\resources\\[qb]\\qb-scoreboard
+	url = https://github.com/qbcore-framework/qb-scoreboard
+[submodule "txData\\resources\\[qb]\\qb-adminmenu"]
+	path = txData\\resources\\[qb]\\qb-adminmenu
+	url = https://github.com/qbcore-framework/qb-adminmenu
+[submodule "txData\\resources\\[qb]\\qb-multicharacter"]
+	path = txData\\resources\\[qb]\\qb-multicharacter
+	url = https://github.com/qbcore-framework/qb-multicharacter
+[submodule "txData\\resources\\[qb]\\qb-customs"]
+	path = txData\\resources\\[qb]\\qb-customs
+	url = https://github.com/qbcore-framework/qb-customs
+[submodule "txData\\resources\\[qb]\\qb-vehiclesales"]
+	path = txData\\resources\\[qb]\\qb-vehiclesales
+	url = https://github.com/qbcore-framework/qb-vehiclesales
+[submodule "txData\\resources\\[qb]\\qb-vehicleshop"]
+	path = txData\\resources\\[qb]\\qb-vehicleshop
+	url = https://github.com/qbcore-framework/qb-vehicleshop
+[submodule "txData\\resources\\[qb]\\qb-houserobbery"]
+	path = txData\\resources\\[qb]\\qb-houserobbery
+	url = https://github.com/qbcore-framework/qb-houserobbery
+[submodule "txData\\resources\\[qb]\\qb-coke"]
+	path = txData\\resources\\[qb]\\qb-coke
+	url = https://github.com/qbcore-framework/qb-coke
+[submodule "txData\\resources\\[qb]\\qb-prison"]
+	path = txData\\resources\\[qb]\\qb-prison
+	url = https://github.com/qbcore-framework/qb-prison
+[submodule "txData\\resources\\[qb]\\qb-blackjack"]
+	path = txData\\resources\\[qb]\\qb-blackjack
+	url = https://github.com/qbcore-framework/qb-blackjack
+[submodule "txData\\resources\\[qb]\\qb-atms"]
+	path = txData\\resources\\[qb]\\qb-atms
+	url = https://github.com/qbcore-framework/qb-atms
+[submodule "txData\\resources\\[qb]\\qb-ifruitstore"]
+	path = txData\\resources\\[qb]\\qb-ifruitstore
+	url = https://github.com/qbcore-framework/qb-ifruitstore
+[submodule "txData\\resources\\[qb]\\qb-hud"]
+	path = txData\\resources\\[qb]\\qb-hud
+	url = https://github.com/qbcore-framework/qb-hud
+[submodule "txData\\resources\\[qb]\\qb-bossmenu"]
+	path = txData\\resources\\[qb]\\qb-bossmenu
+	url = https://github.com/qbcore-framework/qb-bossmenu
+[submodule "txData\\resources\\[qb]\\qb-weed"]
+	path = txData\\resources\\[qb]\\qb-weed
+	url = https://github.com/qbcore-framework/qb-weed
+[submodule "txData\\resources\\[qb]\\qb-lapraces"]
+	path = txData\\resources\\[qb]\\qb-lapraces
+	url = https://github.com/qbcore-framework/qb-lapraces
+[submodule "txData\\resources\\[qb]\\qb-inventory"]
+	path = txData\\resources\\[qb]\\qb-inventory
+	url = https://github.com/qbcore-framework/qb-inventory
+[submodule "txData\\resources\\[qb]\\qb-houses"]
+	path = txData\\resources\\[qb]\\qb-houses
+	url = https://github.com/qbcore-framework/qb-houses
+[submodule "txData\\resources\\[qb]\\qb-garages"]
+	path = txData\\resources\\[qb]\\qb-garages
+	url = https://github.com/qbcore-framework/qb-garages
+[submodule "txData\\resources\\[qb]\\qb-ambulancejob"]
+	path = txData\\resources\\[qb]\\qb-ambulancejob
+	url = https://github.com/qbcore-framework/qb-ambulancejob
+[submodule "txData\\resources\\[qb]\\qb-vehiclefailure"]
+	path = txData\\resources\\[qb]\\qb-vehiclefailure
+	url = https://github.com/qbcore-framework/qb-vehiclefailure
+[submodule "txData\\resources\\[qb]\\qb-radialmenu"]
+	path = txData\\resources\\[qb]\\qb-radialmenu
+	url = https://github.com/qbcore-framework/qb-radialmenu
+[submodule "txData\\resources\\[qb]\\qb-crypto"]
+	path = txData\\resources\\[qb]\\qb-crypto
+	url = https://github.com/qbcore-framework/qb-crypto
+[submodule "txData\\resources\\[qb]\\qb-weathersync"]
+	path = txData\\resources\\[qb]\\qb-weathersync
+	url = https://github.com/qbcore-framework/qb-weathersync
+[submodule "txData\\resources\\[qb]\\qb-policejob"]
+	path = txData\\resources\\[qb]\\qb-policejob
+	url = https://github.com/qbcore-framework/qb-policejob
+[submodule "txData\\resources\\[qb]\\qb-traphouse"]
+	path = txData\\resources\\[qb]\\qb-traphouse
+	url = https://github.com/qbcore-framework/qb-traphouse
+[submodule "txData\\resources\\[qb]\\qb-apartments"]
+	path = txData\\resources\\[qb]\\qb-apartments
+	url = https://github.com/qbcore-framework/qb-apartments
+[submodule "txData\\resources\\[qb]\\qb-vehiclekeys"]
+	path = txData\\resources\\[qb]\\qb-vehiclekeys
+	url = https://github.com/qbcore-framework/qb-vehiclekeys
+[submodule "txData\\resources\\[qb]\\qb-mechanicjob"]
+	path = txData\\resources\\[qb]\\qb-mechanicjob
+	url = https://github.com/qbcore-framework/qb-mechanicjob
+[submodule "txData\\resources\\[qb]\\qb-phone"]
+	path = txData\\resources\\[qb]\\qb-phone
+	url = https://github.com/qbcore-framework/qb-phone
+[submodule "txData\\resources\\[qb]\\qb-vineyard"]
+	path = txData\\resources\\[qb]\\qb-vineyard
+	url = https://github.com/qbcore-framework/qb-vineyard
+[submodule "txData\\resources\\[qb]\\qb-weapons"]
+	path = txData\\resources\\[qb]\\qb-weapons
+	url = https://github.com/qbcore-framework/qb-weapons
+[submodule "txData\\resources\\[qb]\\qb-scrapyard"]
+	path = txData\\resources\\[qb]\\qb-scrapyard
+	url = https://github.com/qbcore-framework/qb-scrapyard
+[submodule "txData\\resources\\[qb]\\qb-tunerchip"]
+	path = txData\\resources\\[qb]\\qb-tunerchip
+	url = https://github.com/qbcore-framework/qb-tunerchip
+[submodule "txData\\resources\\[qb]\\qb-towjob"]
+	path = txData\\resources\\[qb]\\qb-towjob
+	url = https://github.com/qbcore-framework/qb-towjob
+[submodule "txData\\resources\\[qb]\\qb-streetraces"]
+	path = txData\\resources\\[qb]\\qb-streetraces
+	url = https://github.com/qbcore-framework/qb-streetraces
+[submodule "txData\\resources\\[qb]\\qb-storerobbery"]
+	path = txData\\resources\\[qb]\\qb-storerobbery
+	url = https://github.com/qbcore-framework/qb-storerobbery
+[submodule "txData\\resources\\[qb]\\qb-spawn"]
+	path = txData\\resources\\[qb]\\qb-spawn
+	url = https://github.com/qbcore-framework/qb-spawn
+[submodule "txData\\resources\\[qb]\\qb-skillbar"]
+	path = txData\\resources\\[qb]\\qb-skillbar
+	url = https://github.com/qbcore-framework/qb-skillbar
+[submodule "txData\\resources\\[qb]\\qb-smallresources"]
+	path = txData\\resources\\[qb]\\qb-smallresources
+	url = https://github.com/qbcore-framework/qb-smallresources
+[submodule "txData\\resources\\[qb]\\qb-recyclejob"]
+	path = txData\\resources\\[qb]\\qb-recyclejob
+	url = https://github.com/qbcore-framework/qb-recyclejob
+[submodule "txData\\resources\\[qb]\\qb-logs"]
+	path = txData\\resources\\[qb]\\qb-logs
+	url = https://github.com/qbcore-framework/qb-logs
+[submodule "txData\\resources\\[qb]\\qb-diving"]
+	path = txData\\resources\\[qb]\\qb-diving
+	url = https://github.com/qbcore-framework/qb-diving
+[submodule "txData\\resources\\[qb]\\qb-cityhall"]
+	path = txData\\resources\\[qb]\\qb-cityhall
+	url = https://github.com/qbcore-framework/qb-cityhall
+[submodule "txData\\resources\\[qb]\\qb-casino"]
+	path = txData\\resources\\[qb]\\qb-casino
+	url = https://github.com/qbcore-framework/qb-casino
+[submodule "txData\\resources\\[qb]\\qb-anticheat"]
+	path = txData\\resources\\[qb]\\qb-anticheat
+	url = https://github.com/qbcore-framework/qb-anticheat
+[submodule "txData\\resources\\[qb]\\qb-afk"]
+	path = txData\\resources\\[qb]\\qb-afk
+	url = https://github.com/qbcore-framework/qb-afk
+[submodule "txData\\resources\\[qb]\\qb-oxyrun"]
+	path = txData\\resources\\[qb]\\qb-oxyrun
+	url = https://github.com/qbcore-framework/qb-oxyrun
+[submodule "txData\\resources\\[qb]\\qb-carwash"]
+	path = txData\\resources\\[qb]\\qb-carwash
+	url = https://github.com/qbcore-framework/qb-carwash
+[submodule "txData\\resources\\[qb]\\qb-truckrobbery"]
+	path = txData\\resources\\[qb]\\qb-truckrobbery
+	url = https://github.com/qbcore-framework/qb-truckrobbery
+[submodule "txData\\resources\\[qb]\\qb-pawnshop"]
+	path = txData\\resources\\[qb]\\qb-pawnshop
+	url = https://github.com/qbcore-framework/qb-pawnshop
+[submodule "txData\\resources\\[qb]\\qb-taxijob"]
+	path = txData\\resources\\[qb]\\qb-taxijob
+	url = https://github.com/qbcore-framework/qb-taxijob
+[submodule "txData\\resources\\[qb]\\qb-newsjob"]
+	path = txData\\resources\\[qb]\\qb-newsjob
+	url = https://github.com/qbcore-framework/qb-newsjob
+[submodule "txData\\resources\\[qb]\\qb-methlab"]
+	path = txData\\resources\\[qb]\\qb-methlab
+	url = https://github.com/qbcore-framework/qb-methlab
+[submodule "txData\\resources\\[qb]\\qb-jewelery"]
+	path = txData\\resources\\[qb]\\qb-jewelery
+	url = https://github.com/qbcore-framework/qb-jewelery
+[submodule "txData\\resources\\[qb]\\qb-bankrobbery"]
+	path = txData\\resources\\[qb]\\qb-bankrobbery
+	url = https://github.com/qbcore-framework/qb-bankrobbery
+[submodule "txData\\resources\\[qb]\\qb-truckerjob"]
+	path = txData\\resources\\[qb]\\qb-truckerjob
+	url = https://github.com/qbcore-framework/qb-truckerjob
+[submodule "txData\\resources\\[qb]\\qb-lawyerjob"]
+	path = txData\\resources\\[qb]\\qb-lawyerjob
+	url = https://github.com/qbcore-framework/qb-lawyerjob
+[submodule "txData\\resources\\[qb]\\qb-keyminigame"]
+	path = txData\\resources\\[qb]\\qb-keyminigame
+	url = https://github.com/qbcore-framework/qb-keyminigame
+[submodule "txData\\resources\\[qb]\\qb-fitbit"]
+	path = txData\\resources\\[qb]\\qb-fitbit
+	url = https://github.com/qbcore-framework/qb-fitbit
+[submodule "txData\\resources\\[qb]\\qb-commandbinding"]
+	path = txData\\resources\\[qb]\\qb-commandbinding
+	url = https://github.com/qbcore-framework/qb-commandbinding
+[submodule "txData\\resources\\[qb]\\qb-banking"]
+	path = txData\\resources\\[qb]\\qb-banking
+	url = https://github.com/qbcore-framework/qb-banking
+[submodule "txData\\resources\\[qb]\\qb-clothing"]
+	path = txData\\resources\\[qb]\\qb-clothing
+	url = https://github.com/qbcore-framework/qb-clothing
+[submodule "txData\\resources\\[qb]\\qb-hotdogjob"]
+	path = txData\\resources\\[qb]\\qb-hotdogjob
+	url = https://github.com/qbcore-framework/qb-hotdogjob
+[submodule "txData\\resources\\[qb]\\qb-doorlock"]
+	path = txData\\resources\\[qb]\\qb-doorlock
+	url = https://github.com/qbcore-framework/qb-doorlock
+[submodule "txData\\resources\\[qb]\\qb-crafting"]
+	path = txData\\resources\\[qb]\\qb-crafting
+	url = https://github.com/qbcore-framework/qb-crafting
+[submodule "txData\\resources\\[qb]\\qb-garbagejob"]
+	path = txData\\resources\\[qb]\\qb-garbagejob
+	url = https://github.com/qbcore-framework/qb-garbagejob
+[submodule "txData\\resources\\[qb]\\qb-drugs"]
+	path = txData\\resources\\[qb]\\qb-drugs
+	url = https://github.com/qbcore-framework/qb-drugs
+[submodule "txData\\resources\\[qb]\\qb-builderjob"]
+	path = txData\\resources\\[qb]\\qb-builderjob
+	url = https://github.com/qbcore-framework/qb-builderjob
+[submodule "txData\\resources\\[qb]\\qb-shops"]
+	path = txData\\resources\\[qb]\\qb-shops
+	url = https://github.com/qbcore-framework/qb-shops
+[submodule "txData\\resources\\[qb]\\qb-lockpick"]
+	path = txData\\resources\\[qb]\\qb-lockpick
+	url = https://github.com/qbcore-framework/qb-lockpick
+[submodule "txData\\resources\\[qb]\\qb-interior"]
+	path = txData\\resources\\[qb]\\qb-interior
+	url = https://github.com/qbcore-framework/qb-interior
