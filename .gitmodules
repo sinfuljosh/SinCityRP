@@ -247,3 +247,9 @@
 [submodule "txData/resources/[qb]/qb-interior"]
 	path = txData/resources/[qb]/qb-interior
 	url = https://github.com/qbcore-framework/qb-interior
+[submodule "txData/resources/[qb]/qb-fishing"]
+	path = txData/resources/[qb]/qb-fishing
+	url = https://github.com/qbcore-framework/qb-fishing.git
+[submodule "txData/resources/[qb]/qb-target"]
+	path = txData/resources/[qb]/qb-target
+	url = https://github.com/BerkieBb/qb-target.git
